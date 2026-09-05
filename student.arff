@@ -1,0 +1,11 @@
+@relation student
+
+@attribute Rollno numeric
+@attribute Name {A,B,C,D}
+@attribute Age numeric
+@attribute marks numeric
+@attribute result {pass,fail}
+
+@data
+101,A,20,85,pass
+102,B,21,67,pass
